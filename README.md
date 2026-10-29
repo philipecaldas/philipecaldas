@@ -5,12 +5,12 @@
 </a> -->
 <!-- <a href="#">
   <img align="center" src="https://github-readme-stats-philipecaldas.vercel.app/api/top-langs/?username=philipecaldas&hide_title=true&theme=dark&langs_count=6&layout=compact" />
-</a> -->
+</a> 
 
 
 **philipecaldas/philipecaldas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
