@@ -1,11 +1,11 @@
 
 
-<a href="#">
+<!-- <a href="#">
   <img align="center" src="https://github-readme-stats-philipecaldas.vercel.app/api/?username=philipecaldas&hide_title=true&show_icons=true&theme=dark&count_private=true&line_height=20" />
-</a>
-<!--<a href="#">
+</a> -->
+<!-- <a href="#">
   <img align="center" src="https://github-readme-stats-philipecaldas.vercel.app/api/top-langs/?username=philipecaldas&hide_title=true&theme=dark&langs_count=6&layout=compact" />
-</a>
+</a> -->
 
 
 **philipecaldas/philipecaldas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
